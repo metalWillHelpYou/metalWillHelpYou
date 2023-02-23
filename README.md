@@ -5,14 +5,13 @@ I bring order to the chaos and constantly develop.
 
 🎓 Now I'm studying at [TBU](https://www.utb.cz/en/) as a **software engineer**. I have interaction experience with game engines such as **Unreal Engine** and **Unity**. 
 
+I'm also interested in HTML & CSS.
 
 # 📭 My contacts
 
 ✉️ E-mail: metalwillhelpyou@gmail.com
 
 🤺 [Codewars](https://www.codewars.com/users/Defile_) ![Flutter](https://www.codewars.com/users/Defile_/badges/micro)
-
-📑 [Leetcode](https://leetcode.com/Defile_/)
 
 📖 [Facebook](https://www.facebook.com/profile.php?id=100081063091898)
 
