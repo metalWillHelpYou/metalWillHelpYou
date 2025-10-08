@@ -8,7 +8,7 @@
 
 Так же имею опыт работы с С/С++, С#, Python, SQL. 
 
-🤺 [Codewars](https://www.codewars.com/users/Defile_) ![Flutter](https://www.codewars.com/users/Defile_/badges/micro)
+![Flutter](https://www.codewars.com/users/Defile_/badges/micro)
 
 # 📭 Контакты
 
